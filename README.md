@@ -37,7 +37,6 @@ Here are some of my favorite repositories 👇
 | 🩺 [**Lung Cancer Prediction (ML)**](https://github.com/ArianJr/lung-cancer-prediction-ml) | Predicts cancer likelihood using machine learning classifiers |
 | 🚗 [**Auto Price Prediction (XGBoost)**](https://github.com/ArianJr/autoprice-prediction-xgboost) | Regression model for estimating car prices |
 | ✈️ [**Airline Insights ML Analysis**](https://github.com/ArianJr/airlineinsights-ml-analysis) | Exploratory data analysis and forecasting on airline datasets |
-| 🧩 **Neural Network Projects (Coming Soon)** | 3 new ANN notebooks demonstrating model creation and training from scratch |
 
 ---
 
