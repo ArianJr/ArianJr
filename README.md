@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Arian Jafar
 
-<!--
-**ArianJr/ArianJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning & Deep Learning enthusiast** passionate about building intelligent systems and exploring the world of AI.  
+Currently focusing on **Artificial Neural Networks (ANNs)** — I’ve recently completed several ANN notebooks that I’ll be sharing soon on GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 Self-taught learner passionate about **AI, ML, and DL**
+- 🚀 Building predictive models and data visualizations using Python and modern ML libraries
+- 🌱 Currently learning **advanced neural network architectures** and **model optimization techniques**
+- 🎯 Aspiring to become an **AI Engineer / ML Engineer / Deep Learning Developer**
+
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### 📊 Data Science Tools  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+Here are some of my favorite repositories 👇
+
+| Project | Description |
+|----------|--------------|
+| 🩺 [**Lung Cancer Prediction (ML)**](https://github.com/ArianJr/lung-cancer-prediction-ml) | Predicts cancer likelihood using machine learning classifiers |
+| 🚗 [**Auto Price Prediction (XGBoost)**](https://github.com/ArianJr/autoprice-prediction-xgboost) | Regression model for estimating car prices |
+| ✈️ [**Airline Insights ML Analysis**](https://github.com/ArianJr/airlineinsights-ml-analysis) | Exploratory data analysis and forecasting on airline datasets |
+| 🧩 **Neural Network Projects (Coming Soon)** | 3 new ANN notebooks demonstrating model creation and training from scratch |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArianJr&show_icons=true&theme=default&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianJr&layout=compact&theme=default&hide_border=false" height="165" />
+</p>
+
+---
+
+### 📫 Get in Touch
+📧 **arianjafar59@gmail.com**  
+💡 *I’m always open to collaborations, learning opportunities, and discussions about AI, ML, and DL.*
+
+---
+
+⭐ *“Code. Learn. Iterate. Intelligence is built, one model at a time.”*
