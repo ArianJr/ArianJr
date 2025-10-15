@@ -29,15 +29,15 @@ Currently focusing on **Artificial Neural Networks (ANNs)** — I’ve recently 
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects  
 Here are some of my favorite repositories 👇
 
-| Project | Description |
-|----------|--------------|
-| [⚡ Power Output Prediction Using ANN](https://github.com/ArianJr/power-output-prediction-ann) | Predicts power output of a combined cycle power plant using an Artificial Neural Network. Includes preprocessing, training, evaluation, and result visualization. | `Python`, `Machine Learning`, `Deep Learning`, `Keras`, `Energy Modeling` |
-| 🩺 [**Lung Cancer Prediction (ML)**](https://github.com/ArianJr/lung-cancer-prediction-ml) | Predicts cancer likelihood using machine learning classifiers |
-| 🚗 [**Auto Price Prediction (XGBoost)**](https://github.com/ArianJr/autoprice-prediction-xgboost) | Regression model for estimating car prices |
-| ✈️ [**Airline Insights ML Analysis**](https://github.com/ArianJr/airlineinsights-ml-analysis) | Exploratory data analysis and forecasting on airline datasets |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| ⚡ [Power Output Prediction Using ANN](https://github.com/ArianJr/power-output-prediction-ann) | Predicts power output of a combined cycle power plant using an Artificial Neural Network. Includes preprocessing, training, evaluation, and result visualization. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Keras`, `TensorFlow`, `Scikit-learn` |
+| 🩺 [Lung Cancer Prediction (ML)](https://github.com/ArianJr/lung-cancer-prediction) | Predicts cancer likelihood using machine learning classifiers. Includes preprocessing, model training, and evaluation. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn` |
+| 🚗 [Auto Price Prediction (XGBoost)](https://github.com/ArianJr/auto-price-prediction) | Regression model for estimating car prices using XGBoost. Includes feature engineering and model tuning. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `XGBoost`, `Scikit-learn` |
+| ✈️ [Airline Insights ML Analysis](https://github.com/ArianJr/airline-insights-ml-analysis) | Exploratory data analysis and forecasting on airline datasets. Includes time series analysis and visual storytelling. | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Statsmodels`, `Scikit-learn` |
 
 ---
 
