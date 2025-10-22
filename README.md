@@ -29,28 +29,15 @@ Currently focusing on **Artificial Neural Networks (ANNs)**
 
 ---
 
-### 📂 Featured Projects  
-Here are some of my favorite repositories 👇
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| ⚡ [Power Output Prediction Using ANN](https://github.com/ArianJr/power-output-prediction-ann) | Predicts power output of a combined cycle power plant using an Artificial Neural Network. Includes preprocessing, training, evaluation, and result visualization. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Keras`, `TensorFlow`, `Scikit-learn` |
-| 🩺 [Lung Cancer Prediction (ML)](https://github.com/ArianJr/lung-cancer-prediction-ml) | Predicts cancer likelihood using machine learning classifiers. Includes preprocessing, model training, and evaluation. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn` |
-| 🚗 [Auto Price Prediction (XGBoost)](https://github.com/ArianJr/autoprice-prediction-xgboost) | Regression model for estimating car prices using XGBoost. Includes feature engineering and model tuning. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `XGBoost`, `Scikit-learn` |
-| ✈️ [Airline Insights ML Analysis](https://github.com/ArianJr/airlineinsights-ml-analysis) | Exploratory data analysis and forecasting on airline datasets. Includes time series analysis and visual storytelling. | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Statsmodels`, `Scikit-learn` |
-
-
----
-
 ### 🚀 Featured Projects
 
 | Project Title                             | Description                                                                 | Tech Stack                                                                 | GitHub Link                                                                 |
 |-------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Student Performance Prediction (DL)       | End-to-end deep learning pipeline for analyzing student academic performance. Includes EDA, preprocessing, regression, classification, and evaluation. | Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn | [View Repo](https://github.com/ArianJr/student-performance-deep-learning)   |
 | Power Output Prediction Using ANN         | Predicts power output of a combined cycle power plant using ANN. Includes preprocessing, training, evaluation, and result visualization. | Python, Pandas, NumPy, Matplotlib, Seaborn, Keras, TensorFlow, Scikit-learn | [View Repo](https://github.com/ArianJr/power-output-prediction-ann)         |
 | Lung Cancer Prediction (ML)               | Predicts cancer likelihood using ML classifiers. Includes preprocessing, model training, and evaluation. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn                    | [View Repo](https://github.com/ArianJr/lung-cancer-prediction-ml)           |
-| Auto Price Prediction (XGBoost)           | Regression model for estimating car prices using XGBoost. Includes feature engineering and model tuning. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost           | [View Repo](https://github.com/ArianJr/auto-price-prediction-xgboost)       |
-| Airline Insights ML Analysis              | EDA and forecasting on airline operations data. Includes time series analysis and visual storytelling. | Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn       | [View Repo](https://github.com/ArianJr/airline-insights-ml-analysis)        |
-| Student Performance Prediction (DL)       | End-to-end deep learning pipeline for analyzing student academic performance. Includes EDA, preprocessing, regression, classification, and evaluation. | Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn | [View Repo](https://github.com/ArianJr/student-performance-deep-learning)   |
+| Auto Price Prediction (XGBoost)           | Regression model for estimating car prices using XGBoost. Includes feature engineering and model tuning. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost           | [View Repo](https://github.com/ArianJr/autoprice-prediction-xgboost)       |
+| Airline Insights ML Analysis              | EDA and forecasting on airline operations data. Includes time series analysis and visual storytelling. | Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn       | [View Repo](https://github.com/ArianJr/airlineinsights-ml-analysis)        |
 
 ---
 
