@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arian Jafar
 
 I'm a **Machine Learning & Deep Learning enthusiast** passionate about building intelligent systems and exploring the world of AI.  
-Currently focusing on **Artificial Neural Networks (ANNs) & Convolutional Neural Networks (CNNs)**
+Currently focusing on **Artificial Neural Networks (ANNs)** & **Convolutional Neural Networks (CNNs)**.
 
 ---
 
