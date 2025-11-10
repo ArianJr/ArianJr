@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arian Jafar
 
-I'm a **Machine Learning & Deep Learning engineer** passionate about building intelligent, modular systems with clean architecture and reproducible workflows. My focus lies in **Convolutional Neural Networks (CNNs)** and scalable ML pipelines, with an eye for professional presentation and open-source best practices.
+I'm a **Machine Learning & Deep Learning engineer** passionate about building intelligent, modular systems with clean architecture and reproducible workflows. My focus lies in **Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs)** and scalable ML pipelines, with an eye for professional presentation and open-source best practices.
 
 ---
 
@@ -19,6 +19,7 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### 📈 Data Science & Visualization
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
@@ -38,6 +39,15 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 | **Lung Cancer Prediction** | ML classifiers for cancer likelihood with preprocessing and evaluation | Scikit-learn, Pandas, Matplotlib | [View Repo](https://github.com/ArianJr/lung-cancer-prediction-ml) |
 | **Auto Price Prediction** | XGBoost regression with feature engineering and tuning | XGBoost, Pandas, NumPy | [View Repo](https://github.com/ArianJr/autoprice-prediction-xgboost) |
 | **Airline Insights ML** | EDA and forecasting on airline data with visual storytelling | Statsmodels, Pandas, Seaborn | [View Repo](https://github.com/ArianJr/airlineinsights-ml-analysis) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArianJr&show_icons=true&theme=default&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianJr&layout=compact&theme=default&hide_border=false" height="165" />
+</p>
 
 ---
 
