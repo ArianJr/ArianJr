@@ -6,10 +6,10 @@ Currently focusing on **Artificial Neural Networks (ANNs)** & **Convolutional Ne
 ---
 
 ### 🧠 About Me
-- 🎓 Self-taught learner passionate about **AI, ML, and DL**
+- 🎓 Self-taught learner passionate about **AI, ML**, and **DL**
 - 🚀 Building predictive models and data visualizations using Python and modern ML libraries
 - 🌱 Currently learning **advanced neural network architectures** and **model optimization techniques**
-- 🎯 On the path to becoming an **AI & ML Engineer**, with a strong focus on **Deep Learning**
+- 🎯 On the path to becoming an **AI** & **ML Engineer**, with a strong focus on **Deep Learning**
 
 ---
 
