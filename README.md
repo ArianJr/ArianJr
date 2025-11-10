@@ -31,15 +31,14 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **CNN Image Classifier** | Modular CNN with training notebook, config logic, and performance plots | TensorFlow, Keras, Python, Matplotlib | [View Repo](https://github.com/ArianJr/cnn-image-classifier) |
-| **Student Performance DL** | End-to-end DL pipeline with EDA, regression, classification, and evaluation | TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn | [View Repo](https://github.com/ArianJr/student-performance-deep-learning) |
-| **Hotel Review Analysis & Prediction** | Predicts review scores using structured metadata and regression models | XGBoost, Scikit-learn, Pandas, Matplotlib, Seaborn | [View Repo](https://github.com/ArianJr/hotel-review-analysis-prediction) |
-| **Lung Cancer Prediction** | ML classifiers for cancer likelihood with preprocessing and evaluation | Scikit-learn, Pandas, Matplotlib, Seaborn | [View Repo](https://github.com/ArianJr/lung-cancer-prediction-ml) |
-| **Auto Price Prediction** | XGBoost regression with feature engineering and tuning | XGBoost, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn | [View Repo](https://github.com/ArianJr/autoprice-prediction-xgboost) |
-| **Airline Insights ML** | EDA and forecasting on airline data with visual storytelling | Statsmodels, Scikit-learn, Pandas, Seaborn | [View Repo](https://github.com/ArianJr/airlineinsights-ml-analysis) |
-
+| Project Title                             | Description                                                                 | Tech Stack                                                                 | GitHub Link                                                                 |
+|-------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| CNN Image Classifier | Modular CNN built with TensorFlow/Keras, includes training notebook, sample dataset, and performance plots | Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn | [View Repo](https://github.com/ArianJr/cnn-image-classifier) |
+| Student Performance Prediction (DL)       | End-to-end deep learning pipeline for analyzing student academic performance. Includes EDA, preprocessing, regression, classification, and evaluation. | Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn | [View Repo](https://github.com/ArianJr/student-performance-deep-learning)   |
+| Hotel Review Analysis & Prediction | Predicts hotel review scores using structured metadata. Includes regression models, visual diagnostics, and reproducible workflow. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost | [View Repo](https://github.com/ArianJr/hotel-review-analysis-prediction) |
+| Lung Cancer Prediction (ML)               | Predicts cancer likelihood using ML classifiers. Includes preprocessing, model training, and evaluation. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn                    | [View Repo](https://github.com/ArianJr/lung-cancer-prediction-ml)           |
+| Auto Price Prediction (XGBoost)           | Regression model for estimating car prices using XGBoost. Includes feature engineering and model tuning. | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost           | [View Repo](https://github.com/ArianJr/autoprice-prediction-xgboost)       |
+| Airline Insights ML Analysis              | EDA and forecasting on airline operations data. Includes time series analysis and visual storytelling. | Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn       | [View Repo](https://github.com/ArianJr/airlineinsights-ml-analysis)        |
 ---
 
 ### 📈 GitHub Stats
