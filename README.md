@@ -45,13 +45,12 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 
 ### 📈 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/ArianJr?label=Followers&style=social  )
-![GitHub stars](https://img.shields.io/github/stars/ArianJr?label=Stars&style=social  )
-![GitHub last commit](https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=social&logo=github  )
-![GitHub repo count](https://img.shields.io/badge/Public%20Repos-13-blue?style=social&logo=github  )
-![Commits in 2025](https://img.shields.io/badge/Commits%20in%202025-493-green?style=social&logo=github  )
+![GitHub followers](https://img.shields.io/github/followers/ArianJr?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/ArianJr?label=Stars&style=social)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=social&logo=github)  
+![GitHub repo count](https://img.shields.io/badge/Public%20Repos-13-blue?style=social&logo=github)  
+![Commits in 2025](https://img.shields.io/badge/Commits%20in%202025-493-green?style=social&logo=github)  
 
-## 📊 GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/ArianJr?label=Followers&style=for-the-badge&logo=github)  
 ![Stars](https://img.shields.io/github/stars/ArianJr?label=Stars&style=for-the-badge&logo=github)  
