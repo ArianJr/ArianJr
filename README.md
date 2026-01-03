@@ -6,16 +6,16 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 
 ### 🧠 About Me
 
-- 🎓 Self-taught ML/DL practitioner with a strong foundation in Python and neural networks
-- 🧰 Architecting modular, config-driven pipelines for training, evaluation, and visualization
-- 📊 Passionate about performance diagnostics, reproducibility, and clean Git workflows
-- 🚀 Exploring advanced regularization, model optimization, and collaborative ML tooling
+- Self-taught ML/DL practitioner with a strong foundation in Python and neural networks
+- Architecting modular, config-driven pipelines for training, evaluation, and visualization
+- Passionate about performance diagnostics, reproducibility, and clean Git workflows
+- Exploring advanced regularization, model optimization, and collaborative ML tooling
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 💻 Languages & Frameworks
+#### Languages & Frameworks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
@@ -55,8 +55,8 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 
 ### 📬 Get in Touch
 
-📧 **[arianjafar59@gmail.com](mailto:arianjafar59@gmail.com)**  
-💡 *Open to collaborations, feedback, and discussions around ML, DL, and reproducible AI workflows.*
+**[arianjafar59@gmail.com](mailto:arianjafar59@gmail.com)**  
+*Open to collaborations, feedback, and discussions around ML, DL, and reproducible AI workflows.*
 
 ---
 
