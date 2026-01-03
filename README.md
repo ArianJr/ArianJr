@@ -50,9 +50,6 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=social&logo=github)
 ![GitHub repo count](https://img.shields.io/badge/Public%20Repos-13-blue?style=social&logo=github)
 
-<img src="https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/repos/ArianJr?label=Public%20Repos&style=for-the-badge&logo=github" />
-
 ---
 
 ### 📬 Get in Touch
