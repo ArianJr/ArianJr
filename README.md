@@ -45,10 +45,8 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArianJr&show_icons=true&theme=default&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianJr&layout=compact&theme=default&hide_border=false" height="165" />
-</p>
+![ArianJr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianJr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianJr&layout=compact&theme=radical)
 
 ---
 
