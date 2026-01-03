@@ -48,7 +48,7 @@ I'm a **Machine Learning & Deep Learning engineer** passionate about building in
 ![GitHub followers](https://img.shields.io/github/followers/ArianJr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ArianJr?label=Stars&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=social)
-![GitHub repo count](https://img.shields.io/badge/Public%20Repos-13-blue?style=for-the-badge)
+![GitHub repo count](https://img.shields.io/badge/Public%20Repos-13-blue?style=social)
 
 ---
 
