@@ -138,13 +138,13 @@ Predicts cancer likelihood using ML classifiers. Includes preprocessing, model t
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianJr&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArianJr&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArianJr"/>
 
 </div>
 
