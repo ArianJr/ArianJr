@@ -12,7 +12,7 @@ Building intelligent AI systems with clean architecture, reproducible workflows,
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/arian-jafar">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
 </a>
 &nbsp;
