@@ -4,17 +4,16 @@
 
 ### Machine Learning & Deep Learning Engineer
 
-*Building intelligent, modular systems with clean architecture and reproducible workflows.*
+Building intelligent, modular systems with clean architecture and reproducible workflows.
 
 <p>
 I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate about building intelligent, modular systems with clean architecture and reproducible workflows. My focus lies in <strong>Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs)</strong> and scalable ML pipelines, with an eye for professional presentation and open-source best practices.
 </p>
 
 <p>
-<img src="https://img.shields.io/github/followers/ArianJr?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/ArianJr?label=Stars&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Public%20Repos-13-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Commits%20in%202025-503-success?style=for-the-badge" />
+<a href="https://arianjr.github.io">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/arian-jafar">💼 LinkedIn</a> •
+<a href="mailto:arianjafar59@gmail.com">📧 Email</a>
 </p>
 
 </div>
@@ -25,19 +24,21 @@ I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate abou
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-* Self-taught ML/DL practitioner with a strong foundation in Python and neural networks.
-* Architecting modular, config-driven pipelines for training, evaluation, and visualization.
+- Self-taught ML/DL practitioner with a strong foundation in Python and neural networks.
+- Architecting modular, config-driven pipelines for training, evaluation, and visualization.
 
 </td>
 
 <td width="50%" valign="top">
 
-* Passionate about performance diagnostics, reproducibility, and clean Git workflows.
-* Exploring advanced regularization, model optimization, and collaborative ML tooling.
+- Passionate about performance diagnostics, reproducibility, and clean Git workflows.
+- Exploring advanced regularization, model optimization, and collaborative ML tooling.
 
 </td>
+
 </tr>
 </table>
 
@@ -50,11 +51,8 @@ I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate abou
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </p>
@@ -64,11 +62,8 @@ I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate abou
 <p>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
@@ -77,18 +72,67 @@ I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate abou
 
 # 🚀 Featured Projects
 
-| Project                                                | Description                                                                                                                                                                                                                                                                          | Tech Stack                                                                                             |
-| :----------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
-| **Credit Card Fraud Detection Using Machine Learning** | ML fraud detection project (Logistic Regression, Random Forest, XGBoost) with SMOTE, pipelines, cross-validation, and a deployed Streamlit app for real-time predictions.<br><br>🔗 https://github.com/ArianJr/credit-card-fraud-detection                                           | Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • XGBoost • Imbalanced-learn • Streamlit |
-| **Garbage Classification with Transfer Learning**      | Benchmarks CNN vs. transfer learning models (ResNet50, MobileNetV2, EfficientNetB0) for image-based garbage classification. Includes training, evaluation, confusion matrices, and visual diagnostics.<br><br>🔗 https://github.com/ArianJr/garbage-classification-transfer-learning | Python • TensorFlow • Keras • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn                     |
-| **Chest X-ray COVID-19 Classification**                | Deep learning pipeline for classifying chest X-ray images into COVID-19, pneumonia, and normal cases. Includes preprocessing, CNN modeling, training, and evaluation with visual metrics.<br><br>🔗 https://github.com/ArianJr/chest-xray-covid19-classification                     | Python • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • Keras • Scikit-learn                     |
-| **LSTM Google Stock Price Forecasting**                | Predicts Google stock prices using LSTM neural networks, with preprocessing, modeling, and visualization.<br><br>🔗 https://github.com/ArianJr/google-stock-price-forecasting-lstm                                                                                                   | Python • Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Keras                               |
-| **Student Performance Prediction (DL)**                | End-to-end deep learning pipeline for analyzing student academic performance. Includes EDA, preprocessing, regression, classification, and evaluation.<br><br>🔗 https://github.com/ArianJr/student-performance-deep-learning                                                        | Python • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • Keras • Scikit-learn                     |
-| **Lung Cancer Prediction (ML)**                        | Predicts cancer likelihood using ML classifiers. Includes preprocessing, model training, and evaluation.<br><br>🔗 https://github.com/ArianJr/lung-cancer-prediction-ml                                                                                                              | Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn                                          |
+### 💳 Credit Card Fraud Detection Using Machine Learning
+
+ML fraud detection project (Logistic Regression, Random Forest, XGBoost) with SMOTE, pipelines, cross-validation, and a deployed Streamlit app for real-time predictions.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • XGBoost • Imbalanced-learn • Streamlit
+
+🔗 https://github.com/ArianJr/credit-card-fraud-detection
 
 ---
 
-# 📈 GitHub Overview
+### ♻️ Garbage Classification with Transfer Learning
+
+Benchmarks CNN vs. transfer learning models (ResNet50, MobileNetV2, EfficientNetB0) for image-based garbage classification. Includes training, evaluation, confusion matrices, and visual diagnostics.
+
+**Tech Stack:** Python • TensorFlow • Keras • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
+🔗 https://github.com/ArianJr/garbage-classification-transfer-learning
+
+---
+
+### 🩻 Chest X-ray COVID-19 Classification
+
+Deep learning pipeline for classifying chest X-ray images into COVID-19, pneumonia, and normal cases. Includes preprocessing, CNN modeling, training, and evaluation with visual metrics.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • Keras • Scikit-learn
+
+🔗 https://github.com/ArianJr/chest-xray-covid19-classification
+
+---
+
+### 📈 LSTM Google Stock Price Forecasting
+
+Predicts Google stock prices using LSTM neural networks, with preprocessing, modeling, and visualization.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Keras
+
+🔗 https://github.com/ArianJr/google-stock-price-forecasting-lstm
+
+---
+
+### 🎓 Student Performance Prediction (DL)
+
+End-to-end deep learning pipeline for analyzing student academic performance. Includes EDA, preprocessing, regression, classification, and evaluation.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • Keras • Scikit-learn
+
+🔗 https://github.com/ArianJr/student-performance-deep-learning
+
+---
+
+### 🫁 Lung Cancer Prediction (ML)
+
+Predicts cancer likelihood using ML classifiers. Includes preprocessing, model training, and evaluation.
+
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+
+🔗 https://github.com/ArianJr/lung-cancer-prediction-ml
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -112,29 +156,15 @@ I'm a <strong>Machine Learning & Deep Learning engineer</strong> passionate abou
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/ArianJr?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/ArianJr?label=Stars&style=social"/>
-
-<img src="https://img.shields.io/badge/Public%20Repos-13-blue?style=social&logo=github"/>
-
-<img src="https://img.shields.io/badge/Commits%20in%202025-503-green?style=social&logo=github"/>
-
-<img src="https://img.shields.io/github/last-commit/ArianJr/ArianJr?label=Last%20Commit&style=social&logo=github"/>
-
-</p>
-
----
-
 # 📬 Get in Touch
 
 <div align="center">
 
-### **📧 [arianjafar59@gmail.com](mailto:arianjafar59@gmail.com)**
+🌐 **Portfolio:** https://arianjr.github.io
+
+💼 **LinkedIn:** https://www.linkedin.com/in/arian-jafar
+
+📧 **Email:** arianjafar59@gmail.com
 
 *Open to collaborations, feedback, and discussions around ML, DL, and reproducible AI workflows.*
 
