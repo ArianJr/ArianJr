@@ -142,7 +142,7 @@ Predicts cancer likelihood using ML classifiers. Includes preprocessing, model t
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arianjr&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?username=arianjr&theme=github-dark&hide_border=true" />
 
 <br><br>
 
